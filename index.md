@@ -1,45 +1,36 @@
 ---
-title: Schedule
+title: QCQI Workshop
 ---
 
-Exact timings will be updated
+# Motivation
 
-# Session 1 - Morning, 18th February
+Phi@I is thrilled to announce our upcoming workshop on Quantum Computing and Quantum Information on 18th and 19th February, 2023. The workshop will be a gentle introduction to the enigmatic topics of quantum computation and quantum information.
 
-## Scientists write fiction
+The workshop will be conducted over two days, with each day split into two, two-hour sessions. Each session will include a 45-minute talk, followed by discussions and a 10-minute break, during which tea and snacks will be provided. See the full schedule [here](./schedule)
 
-1. The world as a calculator
-   1. Introduction to Physics - I'm not kidding
-   2. Introduction to Computation - Why compute
-2. Maths for Quantum Computation
-   1. States, Gates and Measurements
-   2. Intro to Complexity Theory and Classes
-3. Simple Quantum Algorithms
-4. A scaffolding for Quantum Computers
+The workshop will aim to explain the basics of quantum computing and quantum information in an easy-to-understand manner, so even if you have no prior experience in the field, you will be able to follow along. However, a basic understanding of quantum mechanics and linear algebra will be helpful.
 
-# Session 2 - Afternoon, 18th February
+# Goals
 
-## Fiction to Reality
+The main goal of the workshop is to provide you with a comprehensive understanding of the field, and leave you with a lot of food for thought. Here are some of the key takeaways from the workshop:
 
-1. Experimental Quantum Computing
-2. Various Models for Quantum Computers
-3. Research and Industrial aspects to Quantum Computing
+- Introduction to computation, classical and quantum
+- Physics and Computation
+- Ideas in Quantum algorithms
+- Introduction to Quantum information
+- Entanglement, correlations, and resources
+- "Current" research
 
-# Session 3 - Morning, 19th February
+Apart from the exploratory overview of the field, we will also share further reading materials for you to read up on.
 
-## Alice and Bob get some Polarizers
+# Schedule
 
-1. **Talk 1** - Beyond kets, bras and Hamiltonians, and towards quantum information
-   1. Introduction to quantum states, channels, and measurements
-   2. Quantum state discrimination, and Holevo's theorem
+The schedule of the event can be seen [here](./schedule). Make sure to keep checking for more details.
 
-1. **Talk 2** - Entanglement, correlations and resources
-   1. What is entanglement?
-   2. Quantum teleportation, resource nature of entanglement
+# Registration
 
-# Session 4 - Afternoon, 19th February
+Please fill this form to register (free of charge of course): <https://forms.gle/Qw2oz6Y7d3nQGkQm7>
 
-- Project and Thesis Works of speakers
-- Future of QCQI
-
-**Tea and Snacks would be provided during breaks**
+Looking forwards to seeing you all in large numbers!\
+Best regards,\
+Phi@I
