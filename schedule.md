@@ -2,9 +2,7 @@
 title: Schedule
 ---
 
-Exact timings will be updated
-
-# Session 1 - Morning, 18th February 
+# Session 1 - Morning, 18th February
 
 **Speaker: Dhruva**
 
@@ -65,3 +63,5 @@ Exact timings will be updated
 - Future of QCQI
 
 **Tea and Snacks would be provided during breaks**
+
+Exact timings will be updated
