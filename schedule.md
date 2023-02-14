@@ -4,7 +4,9 @@ title: Schedule
 
 Exact timings will be updated
 
-# Session 1 - Morning, 18th February
+# Session 1 - Morning, 18th February 
+
+**Speaker: Dhruva**
 
 ## Scientists write fiction
 
@@ -18,6 +20,8 @@ Exact timings will be updated
 4. A scaffolding for Quantum Computers
 
 # Session 2 - Afternoon, 18th February
+
+**Speakers: Aprameyan, Sahil**
 
 ## Bob the Qubit Builder
 
@@ -39,16 +43,23 @@ Exact timings will be updated
 
 # Session 3 - Morning, 19th February
 
+**Speakers: Aabhas**
+
 ## A Tale of Two Labs
 
-1. **Talk 1** - Beyond kets, bras and Hamiltonians, and towards quantum information
-   1. Introduction to quantum states, channels, and measurements
-   2. Quantum state discrimination, and Holevo's theorem
-2. **Talk 2** - Entanglement, correlations and resources
-   1. What is entanglement?
-   2. Quantum teleportation, resource nature of entanglement
+**Talk 1** - Beyond kets, bras and Hamiltonians, and towards quantum information
+
+1.  Introduction to quantum states, channels, and measurements
+2.  Quantum state discrimination, and Holevo's theorem
+
+**Talk 2** - Entanglement, correlations and resources
+
+1.  What is entanglement?
+2.  Quantum teleportation, resource nature of entanglement
 
 # Session 4 - Afternoon, 19th February
+
+**Speakers: All**
 
 - Project and Thesis Works of speakers
 - Future of QCQI
