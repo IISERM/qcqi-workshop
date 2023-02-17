@@ -2,7 +2,7 @@
 title: Schedule
 ---
 
-# Session 1 - Morning, 18th February
+# Session 1 - [18th February, 11 AM - 1 PM LH3]
 
 **Speaker: Dhruva**
 
@@ -17,7 +17,7 @@ title: Schedule
 3. Simple Quantum Algorithms
 4. A scaffolding for Quantum Computers
 
-# Session 2 - Afternoon, 18th February
+# Session 2 - [18th February, 3 PM - 5 PM LH3]
 
 **Speakers: Aprameyan, Sahil**
 
@@ -39,7 +39,7 @@ title: Schedule
 4. Research and Industrial goals and various investments
 5. Pros/Cons
 
-# Session 3 - Morning, 19th February
+# Session 3 - [19th February, 11 AM - 1 PM LH3]
 
 **Speakers: Aabhas**
 
@@ -47,15 +47,15 @@ title: Schedule
 
 **Talk 1** - Beyond kets, bras and Hamiltonians, and towards quantum information
 
-1.  Introduction to quantum states, channels, and measurements
-2.  Quantum state discrimination, and Holevo's theorem
+1. Introduction to quantum states, channels, and measurements
+2. Quantum state discrimination, and Holevo's theorem
 
 **Talk 2** - Entanglement, correlations and resources
 
-1.  What is entanglement?
-2.  Quantum teleportation, resource nature of entanglement
+1. What is entanglement?
+2. Quantum teleportation, resource nature of entanglement
 
-# Session 4 - Afternoon, 19th February
+# Session 4 - [19th February, 3 PM - 5 PM LH3]
 
 **Speakers: All**
 
@@ -64,4 +64,3 @@ title: Schedule
 
 **Tea and Snacks would be provided during breaks**
 
-Exact timings will be updated
